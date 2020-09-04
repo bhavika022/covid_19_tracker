@@ -1,1 +1,3 @@
-# covid_19_tracker
+COVID-19 TRACKER
+
+SCREENSHOTS
