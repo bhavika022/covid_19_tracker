@@ -21,3 +21,9 @@ Chart appering after searching for the country Australia showing infected, recov
 Graph showing status of infected and recovered and deaths patients in Australia.
 
 ![](screenshots/ausgraph.png)
+
+Setup:
+
+* run npm i && npm start
+
+API used: https://covid19.mathdro.id/api
